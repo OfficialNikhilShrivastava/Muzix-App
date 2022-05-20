@@ -1,0 +1,8 @@
+<div class="search">
+    <h2 class="searchLine">showing results for {{searchItem}}</h2>
+</div>
+<app-cards *ngIf="isReady" [movies]="allSearchedMovies"></app-cards>
+<div style="display: flex;">
+    <button [disabled]="currentPg<=1" (click)="decreasePage()" mat-raised-button style="margin-left: auto;"><mat-icon>navigate_before</mat-icon>Previous Page</button>
+    <button [disabled]="currentPg>=33349" (click)="increasePage()" mat-raised-button style="margin-right : auto;">Next Page<mat-icon>navigate_next</mat-icon></button>
+</div>

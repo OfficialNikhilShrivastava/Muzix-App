@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MuzixApp/EurekaServer/EurekaServer.iml" filepath="$PROJECT_DIR$/MuzixApp/EurekaServer/EurekaServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MuzixApp/FavouriteMovieService/FavouriteMovieService.iml" filepath="$PROJECT_DIR$/MuzixApp/FavouriteMovieService/FavouriteMovieService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MuzixApp/MovieService/MovieService.iml" filepath="$PROJECT_DIR$/MuzixApp/MovieService/MovieService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MuzixApp/MuzixApp.iml" filepath="$PROJECT_DIR$/MuzixApp/MuzixApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MuzixApp/SpringCloudAPIGateway/SpringCloudAPIGateway.iml" filepath="$PROJECT_DIR$/MuzixApp/SpringCloudAPIGateway/SpringCloudAPIGateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MuzixApp/UserAuthenticationService/UserAuthenticationService.iml" filepath="$PROJECT_DIR$/MuzixApp/UserAuthenticationService/UserAuthenticationService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/backend.iml" filepath="$PROJECT_DIR$/.idea/backend.iml" />
+    </modules>
+  </component>
+</project>

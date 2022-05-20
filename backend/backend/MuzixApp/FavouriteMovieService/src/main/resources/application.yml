@@ -1,0 +1,14 @@
+server:
+  port: 8086
+spring:
+  data:
+    mongodb:
+      uri: mongodb://localhost:27017/favourite_movies_db
+  application:
+    name: user-favourite-movie-service
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8761/eureka
+    fetchRegistry: true
+    registerWithEureka: true
